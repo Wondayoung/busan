@@ -5,8 +5,8 @@ from html import unescape
 from datetime import datetime
 
 # ✅ 여기에 네이버 API 키 직접 넣기 (.env 안 씀)
-NAVER_CLIENT_ID = "ttS13wzp9ToYFUQiSNKi"
-NAVER_CLIENT_SECRET = "LJJRFaAj5O"
+NAVER_CLIENT_ID = ""
+NAVER_CLIENT_SECRET = ""
 
 NAVER_BLOG_URL = "https://openapi.naver.com/v1/search/blog.json"
 
