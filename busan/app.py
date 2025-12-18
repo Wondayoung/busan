@@ -10,8 +10,8 @@ app = Flask(__name__)
 # =========================
 # 1) 네이버 API 키 (직접 입력)
 # =========================
-NAVER_CLIENT_ID = "ttS13wzp9ToYFUQiSNKi"
-NAVER_CLIENT_SECRET = "LJJRFaAj5O"
+NAVER_CLIENT_ID = ""
+NAVER_CLIENT_SECRET = ""
 NAVER_BLOG_URL = "https://openapi.naver.com/v1/search/blog.json"
 
 # =========================
